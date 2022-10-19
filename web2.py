@@ -2,7 +2,7 @@ from flask import Flask
 
 app = Flask(__name__)
 
-
+#oi eu sou um comentario
 
 def soma(termo1,termo2):
 
